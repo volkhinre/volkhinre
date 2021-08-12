@@ -1,1 +1,1 @@
-** Расчет Retention Rate и ARPU, когортный анализ **
+** Р Р°СЃС‡РµС‚ Retention Rate Рё ARPU РїРѕ РєРѕРіРѕСЂС‚Р°Рј **
